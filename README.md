@@ -1,4 +1,4 @@
-I'm used to working with Protactor framework, didn't want to spend too much time on setting up the workspace, so I've used protractor for running the tests(Protractor itself uses Jasmine).
+I've used Protractor framework as part of this test.
 
 Running tests:
 1. Clone repository to a local machine
