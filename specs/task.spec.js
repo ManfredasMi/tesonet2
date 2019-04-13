@@ -8,7 +8,7 @@ describe('Starting a test suite', function() {
         careerPage = new CareerPage();
         // Turning of looking for angular webpage here
         browser.waitForAngularEnabled(false);
-        careerPage.openUrl();
+        careerPage.openTesonetWebpage();
     });
 
     it('Counting the number of categories and printing them down: ', function() {

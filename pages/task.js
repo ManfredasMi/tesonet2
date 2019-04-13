@@ -3,7 +3,7 @@ var CareerPage = function() {
 	this.url = "https://www.tesonet.com";
 	this.categories = By.css('[role="document"] .content main > h5');
 
-	this.openUrl = () => {
+	this.openTesonetWebpage = () => {
 		browser.get(this.url);
 	}
     
