@@ -1,6 +1,6 @@
 I've used Protractor framework as part of this test.
 
-Running tests:
+Running test:
 1. Clone repository to a local machine
 2. cd to that folder and run from command line: npm i
 3. Open another tab of cmd and run: webdriver-manager start
